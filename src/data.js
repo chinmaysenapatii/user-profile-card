@@ -15,23 +15,23 @@ export const users = [
       biography: 'Sr Software Developer from San Francisco.'
     },
     {
-      name: 'Jane Smith',
+      name: 'Adrew Fintop',
       avatar: 'https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-1024.png',
       biography: 'Graphic Designer from San Francisco.'
     },
     {
-      name: 'Jane Smith',
+      name: 'Michel Clark',
       avatar: 'https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-1024.png',
-      biography: 'Graphic Designer from San Francisco.'
+      biography: 'Designer from Germany.'
     },
     {
-      name: 'Jane Smith',
+      name: 'Riki Pointing',
       avatar: 'https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-1024.png',
-      biography: 'Graphic Designer from San Francisco.'
+      biography: 'Web Developer from Berlin.'
     },
     {
-      name: 'Jane Smith',
+      name: 'Jane Clark',
       avatar: 'https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-1024.png',
-      biography: 'Graphic Designer from San Francisco.'
+      biography: 'Full stack Developer from San Francisco.'
     }
   ];
